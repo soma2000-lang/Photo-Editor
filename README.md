@@ -32,7 +32,7 @@ git clone https://github.com/soma2000-lang/Web-dev-mini-projects.git
 
 <h3> ScreenShots </h3> 
 <img width="960" alt="Photo-Editor" src="https://github.com/soma2000-lang/Photo-Editor/blob/master/WhatsApp%20Image%202021-07-17%20at%2023.15.55%20(1).jpeg">
-<img width="960" alt="Photo-Editor" src="<img width="960" alt="Photo-Editor" src="https://github.com/soma2000-lang/Photo-Editor/blob/master/image%20(2).png">
+<img width="960" alt="Photo-Editor"src="https://github.com/soma2000-lang/Photo-Editor/blob/master/image%20(2).png">
 <img width="960" alt="Photo-Editor" src="https://github.com/soma2000-lang/Photo-Editor/blob/master/image.png">
 
 <br>
