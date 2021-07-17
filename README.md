@@ -2,6 +2,6 @@ This is a Photo editor where one can flip(both horizontally and vertically),resi
 
 # The project demo
 
-<pre><img src="/Images/ui2.png" width="700">  
+<pre><img src="image (1).png" width="700">  
  
  </pre>
